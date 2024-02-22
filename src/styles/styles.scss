@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  scroll-behavior: smooth;
+  color-scheme: dark;
+}
+
+.sidebar-gradient {
+  background: linear-gradient(139.14deg, #076ecd 23.19%, #1cbbff 102.24%);
+
+  .sidebar-design {
+    background: linear-gradient(
+      180deg,
+      rgba(160, 249, 255, 0.306) 0%,
+      rgba(160, 249, 255, 0.12) 100%
+    );
+  }
+}
+
+.modal {
+  animation: fadeIn 0.5s ease-in-out; /* Adjust the duration and timing function as needed */
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
