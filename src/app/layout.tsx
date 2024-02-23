@@ -4,6 +4,9 @@ import "@/styles/styles.scss";
 import "@/styles/tailwind.css";
 import { Metadata } from "next";
 import React from "react";
+import { CustomProvider } from "rsuite";
+import "rsuite/dist/rsuite-no-reset.min.css";
+import { MainHeader } from "../components";
 
 export const metadata: Metadata = {
   title: "Property Rentals",
@@ -20,9 +23,13 @@ export default function RootLayout({
       <head>
         <link rel="icon" href="/logo.svg" />
       </head>
-      <body suppressHydrationWarning={true}>
+      <body suppressHydrationWarning={true} className="bg-white text-zinc-900">
         <ThemeContextProvider>
-          <SidebarContextProvider>{children}</SidebarContextProvider>
+          <SidebarContextProvider>
+            <MainHeader />
+
+            <CustomProvider>{children}</CustomProvider>
+          </SidebarContextProvider>
         </ThemeContextProvider>
       </body>
     </html>

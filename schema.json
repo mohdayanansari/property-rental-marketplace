@@ -1,0 +1,786 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "title": "Whitefish Estate",
+      "about": "Enjoy a quiet getaway in this charming cottage renovated, designed, and owned by Chip and Joanna Gaines. Originally the carriage house for Hillcrest Estate, this home includes one bedroom, one bath, an office nook and a private back patio. This makes it the perfect getaway for a party of two, or if you’re stopping through town and need a restful place to retreat.",
+      "spaceDescription": "An open living, dining, and kitchen area provide ample room in this cozy cottage. French double doors lead you out to the back patio to enjoy your own private outdoor space. A dedicated, covered parking spot for your use. The parking lot is shared with Hillcrest Estate guests.",
+      "thumbnailUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/chastity-cortijo-R-w5Q-4Mqm0-unsplash.jpg",
+      "overallRating": 5.12,
+      "imageUrls": [
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/chastity-cortijo-R-w5Q-4Mqm0-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/christian-mackie-yb9b2wbhxG4-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/lotus-design-n-print-l6u4GIKvxBs-unsplash.jpg"
+      ],
+      "amenities": [
+        "AC",
+        "TV",
+        "SOFA",
+        "PARKING_SPACE",
+        "FRIDGE",
+        "WIFI",
+        "SECURITY_CAMERA",
+        "FAN",
+        "HEATER",
+        "SHOWER"
+      ],
+      "location": {
+        "street": "Whitefish",
+        "state": "Montana",
+        "country": "United States"
+      },
+      "ratings": {
+        "cleanliness": 5,
+        "accuracy": 4.5,
+        "value": 4,
+        "location": 5,
+        "service": 1
+      },
+      "reviews": [
+        {
+          "reviewerName": "Boso Bastian",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-6.jpeg",
+          "review": "Abbe's place was so wonderful and just what I needed. It was the perfect escape with a great wood stove, beautiful views, horses, and nearby skiing. I'm so grateful.",
+          "createdAt": "2024-01-01T17:09:01.731Z"
+        },
+        {
+          "reviewerName": "Steve",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-3.jpeg",
+          "review": "Abbe's place was so wonderful and just what I needed. It was the perfect escape with a great wood stove, beautiful views, horses, and nearby skiing. I'm so grateful.",
+          "createdAt": "2023-02-19T17:09:01.731Z"
+        },
+        {
+          "reviewerName": "Marieke",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-4.jpeg",
+          "review": "Abbe's place was so wonderful and just what I needed. It was the perfect escape with a great wood stove, beautiful views, horses, and nearby skiing. I'm so grateful.",
+          "createdAt": "2023-01-24T17:09:01.731Z"
+        }
+      ],
+      "host": {
+        "name": "Brenda van splunter",
+        "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-4.jpeg",
+        "bio": "As a mother of 4, living in Solana Beach for 25+ years, I love to help families enjoy our beautiful area. Vacations are special and we do our very best to make them affordable, enjoy Vacations",
+        "joinedAt": "2021-01-01T17:09:01.731Z",
+        "totalReviews": 1234,
+        "isVerified": true,
+        "isSuperHost": true
+      },
+      "pricePerNightInCents": 120000,
+      "cleaningPricePerNightInCents": 600,
+      "servicePricePerNightInCents": 1000,
+      "maxGuests": 16,
+      "numberOfBedrooms": 8,
+      "numberOfBeds": 12,
+      "numberOfBathroom": 8
+    },
+    {
+      "id": 2,
+      "title": "Luxury stay in Weston, Saint James, Barbados",
+      "about": "Enjoy a quiet getaway in this charming cottage renovated, designed, and owned by Chip and Joanna Gaines. Originally the carriage house for Hillcrest Estate, this home includes one bedroom, one bath, an office nook and a private back patio. This makes it the perfect getaway for a party of two, or if you’re stopping through town and need a restful place to retreat.",
+      "spaceDescription": "An open living, dining, and kitchen area provide ample room in this cozy cottage. French double doors lead you out to the back patio to enjoy your own private outdoor space. A dedicated, covered parking spot for your use. The parking lot is shared with Hillcrest Estate guests.",
+      "thumbnailUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/chastity-cortijo-R-w5Q-4Mqm0-unsplash.jpg",
+      "overallRating": 4.58,
+      "imageUrls": [
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/im3rd-media-CbZ4EDP__VQ-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/lotus-design-n-print-8qNuR1lIv_k-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/lotus-design-n-print-I_QC1JICzA0-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/lotus-design-n-print-KiUg-4xmTwo-unsplash.jpg"
+      ],
+      "amenities": [
+        "AC",
+        "TV",
+        "SOFA",
+        "PARKING_SPACE",
+        "FRIDGE",
+        "WIFI",
+        "SECURITY_CAMERA",
+        "FAN",
+        "HEATER",
+        "SHOWER"
+      ],
+      "location": {
+        "street": "Weston",
+        "state": "Saint James",
+        "country": "Barbados"
+      },
+      "ratings": {
+        "cleanliness": 1,
+        "accuracy": 4.5,
+        "value": 3,
+        "location": 5,
+        "service": 5
+      },
+      "reviews": [
+        {
+          "reviewerName": "Boso Bastian",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-2.jpeg",
+          "review": "Abbe's place was so wonderful and just what I needed. It was the perfect escape with a great wood stove, beautiful views, horses, and nearby skiing. I'm so grateful.",
+          "createdAt": "2024-01-01T17:09:01.731Z"
+        },
+        {
+          "reviewerName": "Steve",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-2.jpeg",
+          "review": "Abbe's place was so wonderful and just what I needed. It was the perfect escape with a great wood stove, beautiful views, horses, and nearby skiing. I'm so grateful.",
+          "createdAt": "2023-02-19T17:09:01.731Z"
+        },
+        {
+          "reviewerName": "Rishidip Roy",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-2.jpeg",
+          "review": "Abbe's place was so wonderful and just what I needed. It was the perfect escape with a great wood stove, beautiful views, horses, and nearby skiing. I'm so grateful.",
+          "createdAt": "2023-02-19T17:09:01.731Z"
+        },
+        {
+          "reviewerName": "Sushanth T",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-2.jpeg",
+          "review": "Abbe's place was so wonderful and just what I needed. It was the perfect escape with a great wood stove, beautiful views, horses, and nearby skiing. I'm so grateful.",
+          "createdAt": "2023-02-19T17:09:01.731Z"
+        },
+        {
+          "reviewerName": "Marieke",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-2.jpeg",
+          "review": "Abbe's place was so wonderful and just what I needed. It was the perfect escape with a great wood stove, beautiful views, horses, and nearby skiing. I'm so grateful.",
+          "createdAt": "2023-01-24T17:09:01.731Z"
+        }
+      ],
+      "host": {
+        "name": "Brenda van splunter",
+        "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile.jpeg",
+        "bio": "As a mother of 4, living in Solana Beach for 25+ years, I love to help families enjoy our beautiful area. Vacations are special and we do our very best to make them affordable, enjoy Vacations",
+        "joinedAt": "2021-01-01T17:09:01.731Z",
+        "totalReviews": 1234,
+        "isVerified": true,
+        "isSuperHost": true
+      },
+      "pricePerNightInCents": 120000,
+      "cleaningPricePerNightInCents": 600,
+      "servicePricePerNightInCents": 1000,
+      "maxGuests": 16,
+      "numberOfBedrooms": 8,
+      "numberOfBeds": 12,
+      "numberOfBathroom": 8
+    },
+    {
+      "id": 3,
+      "title": "Designer A-Frame Cabin in the Trees",
+      "about": "Enjoy a quiet getaway in this charming cottage renovated, designed, and owned by Chip and Joanna Gaines. Originally the carriage house for Hillcrest Estate, this home includes one bedroom, one bath, an office nook and a private back patio. This makes it the perfect getaway for a party of two, or if you’re stopping through town and need a restful place to retreat.",
+      "spaceDescription": "An open living, dining, and kitchen area provide ample room in this cozy cottage. French double doors lead you out to the back patio to enjoy your own private outdoor space. A dedicated, covered parking spot for your use. The parking lot is shared with Hillcrest Estate guests.",
+      "thumbnailUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/spacejoy-c0JoR_-2x3E-unsplash.jpg",
+      "overallRating": 3.41,
+      "imageUrls": [
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/roberto-nickson-emqnSQwQQDo-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/spacejoy-9M66C_w_ToM-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/spacejoy-c0JoR_-2x3E-unsplash.jpg"
+      ],
+      "amenities": [
+        "AC",
+        "TV",
+        "SOFA",
+        "PARKING_SPACE",
+        "FRIDGE",
+        "WIFI",
+        "SECURITY_CAMERA",
+        "FAN",
+        "HEATER",
+        "SHOWER"
+      ],
+      "location": {
+        "street": "Lake Arrowhead",
+        "state": "California",
+        "country": "United States"
+      },
+      "ratings": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "value": 5,
+        "location": 5,
+        "service": 5
+      },
+      "reviews": [
+        {
+          "reviewerName": "Mahesh R",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile.jpeg",
+          "review": "Kramer's place was so wonderful and just what I needed. It was the perfect escape with a great wood stove, beautiful views, horses, and nearby skiing. I'm so grateful.",
+          "createdAt": "2022-01-01T12:10:01.731Z"
+        }
+      ],
+      "host": {
+        "name": "Cosmo Kramer",
+        "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-3.jpeg",
+        "bio": "Cosmo Kramer, usually referred to as simply 'Kramer', is a fictional character in the American television sitcom Seinfeld played by Michael Richards. The character is loosely based on comedian Kenny Kramer, Larry David's ex-neighbor across the hall.",
+        "joinedAt": "2021-01-01T17:09:01.731Z",
+        "totalReviews": 12,
+        "isVerified": true,
+        "isSuperHost": true
+      },
+      "pricePerNightInCents": 80000,
+      "cleaningPricePerNightInCents": 300,
+      "servicePricePerNightInCents": 1000,
+      "maxGuests": 10,
+      "numberOfBedrooms": 4,
+      "numberOfBeds": 4,
+      "numberOfBathroom": 2
+    },
+    {
+      "id": 4,
+      "title": "Fully Renovated 2 BR on River w/ Pool - Walk to To",
+      "about": "Enjoy a quiet getaway in this charming cottage renovated, designed, and owned by Chip and Joanna Gaines. Originally the carriage house for Hillcrest Estate, this home includes one bedroom, one bath, an office nook and a private back patio. This makes it the perfect getaway for a party of two, or if you’re stopping through town and need a restful place to retreat.",
+      "spaceDescription": "An open living, dining, and kitchen area provide ample room in this cozy cottage. French double doors lead you out to the back patio to enjoy your own private outdoor space. A dedicated, covered parking spot for your use. The parking lot is shared with Hillcrest Estate guests.",
+      "thumbnailUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/virender-singh-hE0nmTffKtM-unsplash.jpg",
+      "overallRating": 2.78,
+      "imageUrls": [
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/spacejoy-EVjqpcn79AM-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/steven-ungermann-1AF5hP6F4tI-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/virender-singh-hE0nmTffKtM-unsplash.jpg"
+      ],
+      "amenities": [
+        "AC",
+        "TV",
+        "SOFA",
+        "PARKING_SPACE",
+        "FRIDGE",
+        "WIFI",
+        "SECURITY_CAMERA",
+        "FAN",
+        "HEATER",
+        "SHOWER"
+      ],
+      "location": {
+        "street": "Aspen",
+        "state": "Colorado",
+        "country": "United States"
+      },
+      "ratings": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "value": 5,
+        "location": 5,
+        "service": 5
+      },
+      "reviews": [
+        {
+          "reviewerName": "Arvi Bhat",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-2.jpeg",
+          "review": "When Tony Stark, an industrialist, is captured, he constructs a high-tech armoured suit to escape. Once he manages to escape, he decides to use his suit to fight against evil forces to save the world.",
+          "createdAt": "2024-01-13T12:10:01.731Z"
+        }
+      ],
+      "host": {
+        "name": "Roy Bentley",
+        "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile.jpeg",
+        "bio": "Bentley Motors Limited is a British designer, manufacturer and marketer of luxury cars and SUVs. Headquartered in Crewe, England, the company was founded by W. O. Bentley in 1919 in Cricklewood, North London, and became widely known for winning the 24 Hours of Le Mans in 1924, 1927, 1928, 1929 and 1930.",
+        "joinedAt": "2019-01-01T17:09:01.731Z",
+        "totalReviews": 1203,
+        "isVerified": true,
+        "isSuperHost": true
+      },
+      "pricePerNightInCents": 800000,
+      "cleaningPricePerNightInCents": 3000,
+      "servicePricePerNightInCents": 5000,
+      "maxGuests": 6,
+      "numberOfBedrooms": 4,
+      "numberOfBeds": 4,
+      "numberOfBathroom": 4
+    },
+    {
+      "id": 5,
+      "title": "7,500 sq ft Private Beachfront Estate",
+      "about": "Enjoy a quiet getaway in this charming cottage renovated, designed, and owned by Chip and Joanna Gaines. Originally the carriage house for Hillcrest Estate, this home includes one bedroom, one bath, an office nook and a private back patio. This makes it the perfect getaway for a party of two, or if you’re stopping through town and need a restful place to retreat.",
+      "spaceDescription": "An open living, dining, and kitchen area provide ample room in this cozy cottage. French double doors lead you out to the back patio to enjoy your own private outdoor space. A dedicated, covered parking spot for your use. The parking lot is shared with Hillcrest Estate guests.",
+      "thumbnailUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/steven-ungermann-1AF5hP6F4tI-unsplash.jpg",
+      "overallRating": 4.84,
+      "imageUrls": [
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/spacejoy-XM-miHibz64-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/steven-ungermann-1AF5hP6F4tI-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/virender-singh-hE0nmTffKtM-unsplash.jpg"
+      ],
+      "amenities": [
+        "AC",
+        "TV",
+        "SOFA",
+        "PARKING_SPACE",
+        "FRIDGE",
+        "WIFI",
+        "SECURITY_CAMERA",
+        "FAN",
+        "HEATER",
+        "SHOWER"
+      ],
+      "location": {
+        "street": "Aspen",
+        "state": "Colorado",
+        "country": "United States"
+      },
+      "ratings": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "value": 5,
+        "location": 5,
+        "service": 5
+      },
+      "reviews": [
+        {
+          "reviewerName": "Ravi N",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-2.jpeg",
+          "review": "When Tony Stark, an industrialist, is captured, he constructs a high-tech armoured suit to escape. Once he manages to escape, he decides to use his suit to fight against evil forces to save the world.",
+          "createdAt": "2024-01-13T12:10:01.731Z"
+        },
+        {
+          "reviewerName": "Jerry S",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-2.jpeg",
+          "review": "When Tony Stark, an industrialist, is captured, he constructs a high-tech armoured suit to escape. Once he manages to escape, he decides to use his suit to fight against evil forces to save the world.",
+          "createdAt": "2024-01-13T12:10:01.731Z"
+        }
+      ],
+      "host": {
+        "name": "Elane Benes",
+        "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-3.jpeg",
+        "bio": "Bentley Motors Limited is a British designer, manufacturer and marketer of luxury cars and SUVs. Headquartered in Crewe, England, the company was founded by W. O. Bentley in 1919 in Cricklewood, North London, and became widely known for winning the 24 Hours of Le Mans in 1924, 1927, 1928, 1929 and 1930.",
+        "joinedAt": "2019-01-01T17:09:01.731Z",
+        "totalReviews": 1203,
+        "isVerified": true,
+        "isSuperHost": true
+      },
+      "pricePerNightInCents": 800000,
+      "cleaningPricePerNightInCents": 3000,
+      "servicePricePerNightInCents": 5000,
+      "maxGuests": 6,
+      "numberOfBedrooms": 4,
+      "numberOfBeds": 4,
+      "numberOfBathroom": 4
+    },
+    {
+      "id": 6,
+      "title": "Mountainside Luxury Cabin with Batulao View",
+      "about": "Enjoy a quiet getaway in this charming cottage renovated, designed, and owned by Chip and Joanna Gaines. Originally the carriage house for Hillcrest Estate, this home includes one bedroom, one bath, an office nook and a private back patio. This makes it the perfect getaway for a party of two, or if you’re stopping through town and need a restful place to retreat.",
+      "spaceDescription": "An open living, dining, and kitchen area provide ample room in this cozy cottage. French double doors lead you out to the back patio to enjoy your own private outdoor space. A dedicated, covered parking spot for your use. The parking lot is shared with Hillcrest Estate guests.",
+      "thumbnailUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/r-architecture-TRCJ-87Yoh0-unsplash.jpg",
+      "overallRating": 4.51,
+      "imageUrls": [
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/nastuh-abootalebi-ZtC4_rPCRXA-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/r-architecture-TRCJ-87Yoh0-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/r-architecture-wDDfbanbhl8-unsplash.jpg"
+      ],
+      "amenities": [
+        "AC",
+        "TV",
+        "SOFA",
+        "PARKING_SPACE",
+        "FRIDGE",
+        "WIFI",
+        "SECURITY_CAMERA",
+        "FAN",
+        "HEATER",
+        "SHOWER"
+      ],
+      "location": {
+        "street": "Aspen",
+        "state": "Colorado",
+        "country": "United States"
+      },
+      "ratings": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "value": 5,
+        "location": 5,
+        "service": 5
+      },
+      "reviews": [
+        {
+          "reviewerName": "Vivek G",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-4.jpeg",
+          "review": "When Tony Stark, an industrialist, is captured, he constructs a high-tech armoured suit to escape. Once he manages to escape, he decides to use his suit to fight against evil forces to save the world.",
+          "createdAt": "2024-01-13T12:10:01.731Z"
+        }
+      ],
+      "host": {
+        "name": "Ramesh Gowda",
+        "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile.jpeg",
+        "bio": "Bentley Motors Limited is a British designer, manufacturer and marketer of luxury cars and SUVs. Headquartered in Crewe, England, the company was founded by W. O. Bentley in 1919 in Cricklewood, North London, and became widely known for winning the 24 Hours of Le Mans in 1924, 1927, 1928, 1929 and 1930.",
+        "joinedAt": "2019-01-01T17:09:01.731Z",
+        "totalReviews": 1203,
+        "isVerified": true,
+        "isSuperHost": true
+      },
+      "pricePerNightInCents": 800000,
+      "cleaningPricePerNightInCents": 3000,
+      "servicePricePerNightInCents": 5000,
+      "maxGuests": 6,
+      "numberOfBedrooms": 4,
+      "numberOfBeds": 4,
+      "numberOfBathroom": 4
+    },
+    {
+      "id": 7,
+      "title": "Magnolia's Hillcrest Cottage",
+      "about": "Enjoy a quiet getaway in this charming cottage renovated, designed, and owned by Chip and Joanna Gaines. Originally the carriage house for Hillcrest Estate, this home includes one bedroom, one bath, an office nook and a private back patio. This makes it the perfect getaway for a party of two, or if you’re stopping through town and need a restful place to retreat.",
+      "spaceDescription": "An open living, dining, and kitchen area provide ample room in this cozy cottage. French double doors lead you out to the back patio to enjoy your own private outdoor space. A dedicated, covered parking spot for your use. The parking lot is shared with Hillcrest Estate guests.",
+      "thumbnailUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/steven-ungermann-1AF5hP6F4tI-unsplash.jpg",
+      "overallRating": 5,
+      "imageUrls": [
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/lotus-design-n-print-WgkA3CSFrjc-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/naomi-hebert-MP0bgaS_d1c-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/steven-ungermann-1AF5hP6F4tI-unsplash.jpg"
+      ],
+      "amenities": [
+        "AC",
+        "TV",
+        "SOFA",
+        "PARKING_SPACE",
+        "FRIDGE",
+        "WIFI",
+        "SECURITY_CAMERA",
+        "FAN",
+        "HEATER",
+        "SHOWER"
+      ],
+      "location": {
+        "street": "Aspen",
+        "state": "Colorado",
+        "country": "United States"
+      },
+      "ratings": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "value": 5,
+        "location": 5,
+        "service": 5
+      },
+      "reviews": [
+        {
+          "reviewerName": "Jacco",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-3.jpeg",
+          "review": "When Tony Stark, an industrialist, is captured, he constructs a high-tech armoured suit to escape. Once he manages to escape, he decides to use his suit to fight against evil forces to save the world.",
+          "createdAt": "2024-01-13T12:10:01.731Z"
+        },
+        {
+          "reviewerName": "Seb",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-4.jpeg",
+          "review": "When Tony Stark, an industrialist, is captured, he constructs a high-tech armoured suit to escape. Once he manages to escape, he decides to use his suit to fight against evil forces to save the world.",
+          "createdAt": "2024-01-13T12:10:01.731Z"
+        }
+      ],
+      "host": {
+        "name": "Martina",
+        "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-2.jpeg",
+        "bio": "Bentley Motors Limited is a British designer, manufacturer and marketer of luxury cars and SUVs. Headquartered in Crewe, England, the company was founded by W. O. Bentley in 1919 in Cricklewood, North London, and became widely known for winning the 24 Hours of Le Mans in 1924, 1927, 1928, 1929 and 1930.",
+        "joinedAt": "2019-01-01T17:09:01.731Z",
+        "totalReviews": 1203,
+        "isVerified": true,
+        "isSuperHost": true
+      },
+      "pricePerNightInCents": 800000,
+      "cleaningPricePerNightInCents": 3000,
+      "servicePricePerNightInCents": 5000,
+      "maxGuests": 6,
+      "numberOfBedrooms": 4,
+      "numberOfBeds": 4,
+      "numberOfBathroom": 4
+    },
+    {
+      "id": 8,
+      "title": "Unique Architecture Cave House by Cycladica",
+      "about": "Enjoy a quiet getaway in this charming cottage renovated, designed, and owned by Chip and Joanna Gaines. Originally the carriage house for Hillcrest Estate, this home includes one bedroom, one bath, an office nook and a private back patio. This makes it the perfect getaway for a party of two, or if you’re stopping through town and need a restful place to retreat.",
+      "spaceDescription": "An open living, dining, and kitchen area provide ample room in this cozy cottage. French double doors lead you out to the back patio to enjoy your own private outdoor space. A dedicated, covered parking spot for your use. The parking lot is shared with Hillcrest Estate guests.",
+      "thumbnailUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/lotus-design-n-print-KiUg-4xmTwo-unsplash.jpg",
+      "overallRating": 5,
+      "imageUrls": [
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/lotus-design-n-print-I_QC1JICzA0-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/lotus-design-n-print-KiUg-4xmTwo-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/naomi-hebert-MP0bgaS_d1c-unsplash.jpg"
+      ],
+      "amenities": [
+        "AC",
+        "TV",
+        "SOFA",
+        "PARKING_SPACE",
+        "FRIDGE",
+        "WIFI",
+        "SECURITY_CAMERA",
+        "FAN",
+        "HEATER",
+        "SHOWER"
+      ],
+      "location": {
+        "street": "Aspen",
+        "state": "Colorado",
+        "country": "United States"
+      },
+      "ratings": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "value": 5,
+        "location": 5,
+        "service": 5
+      },
+      "reviews": [
+        {
+          "reviewerName": "Shayan H",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-4.jpeg",
+          "review": "When Tony Stark, an industrialist, is captured, he constructs a high-tech armoured suit to escape. Once he manages to escape, he decides to use his suit to fight against evil forces to save the world.",
+          "createdAt": "2024-01-13T12:10:01.731Z"
+        }
+      ],
+      "host": {
+        "name": "James",
+        "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-2.jpeg",
+        "bio": "Bentley Motors Limited is a British designer, manufacturer and marketer of luxury cars and SUVs. Headquartered in Crewe, England, the company was founded by W. O. Bentley in 1919 in Cricklewood, North London, and became widely known for winning the 24 Hours of Le Mans in 1924, 1927, 1928, 1929 and 1930.",
+        "joinedAt": "2019-01-01T17:09:01.731Z",
+        "totalReviews": 1203,
+        "isVerified": true,
+        "isSuperHost": true
+      },
+      "pricePerNightInCents": 800000,
+      "cleaningPricePerNightInCents": 3000,
+      "servicePricePerNightInCents": 5000,
+      "maxGuests": 6,
+      "numberOfBedrooms": 4,
+      "numberOfBeds": 4,
+      "numberOfBathroom": 4
+    },
+    {
+      "id": 12,
+      "title": "Designer A-Frame Cabin in the Trees",
+      "about": "Enjoy a quiet getaway in this charming cottage renovated, designed, and owned by Chip and Joanna Gaines. Originally the carriage house for Hillcrest Estate, this home includes one bedroom, one bath, an office nook and a private back patio. This makes it the perfect getaway for a party of two, or if you’re stopping through town and need a restful place to retreat.",
+      "spaceDescription": "An open living, dining, and kitchen area provide ample room in this cozy cottage. French double doors lead you out to the back patio to enjoy your own private outdoor space. A dedicated, covered parking spot for your use. The parking lot is shared with Hillcrest Estate guests.",
+      "thumbnailUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/jason-briscoe-GliaHAJ3_5A-unsplash.jpg",
+      "overallRating": 5,
+      "imageUrls": [
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/im3rd-media-CbZ4EDP__VQ-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/jason-briscoe-GliaHAJ3_5A-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/lotus-design-n-print-8qNuR1lIv_k-unsplash.jpg"
+      ],
+      "amenities": [
+        "AC",
+        "TV",
+        "SOFA",
+        "PARKING_SPACE",
+        "FRIDGE",
+        "WIFI",
+        "SECURITY_CAMERA",
+        "FAN",
+        "HEATER",
+        "SHOWER"
+      ],
+      "location": {
+        "street": "Aspen",
+        "state": "Colorado",
+        "country": "United States"
+      },
+      "ratings": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "value": 5,
+        "location": 5,
+        "service": 5
+      },
+      "reviews": [
+        {
+          "reviewerName": "Arvi Bhat",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile.jpeg",
+          "review": "When Tony Stark, an industrialist, is captured, he constructs a high-tech armoured suit to escape. Once he manages to escape, he decides to use his suit to fight against evil forces to save the world.",
+          "createdAt": "2024-01-13T12:10:01.731Z"
+        }
+      ],
+      "host": {
+        "name": "Roy Bentley",
+        "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile.jpeg",
+        "bio": "Bentley Motors Limited is a British designer, manufacturer and marketer of luxury cars and SUVs. Headquartered in Crewe, England, the company was founded by W. O. Bentley in 1919 in Cricklewood, North London, and became widely known for winning the 24 Hours of Le Mans in 1924, 1927, 1928, 1929 and 1930.",
+        "joinedAt": "2019-01-01T17:09:01.731Z",
+        "totalReviews": 1203,
+        "isVerified": true,
+        "isSuperHost": true
+      },
+      "pricePerNightInCents": 800000,
+      "cleaningPricePerNightInCents": 3000,
+      "servicePricePerNightInCents": 5000,
+      "maxGuests": 6,
+      "numberOfBedrooms": 4,
+      "numberOfBeds": 4,
+      "numberOfBathroom": 4
+    },
+    {
+      "id": 9,
+      "title": "ATELIER ArtVillas Costa Rica",
+      "about": "Enjoy a quiet getaway in this charming cottage renovated, designed, and owned by Chip and Joanna Gaines. Originally the carriage house for Hillcrest Estate, this home includes one bedroom, one bath, an office nook and a private back patio. This makes it the perfect getaway for a party of two, or if you’re stopping through town and need a restful place to retreat.",
+      "spaceDescription": "An open living, dining, and kitchen area provide ample room in this cozy cottage. French double doors lead you out to the back patio to enjoy your own private outdoor space. A dedicated, covered parking spot for your use. The parking lot is shared with Hillcrest Estate guests.",
+      "thumbnailUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/jason-briscoe-GliaHAJ3_5A-unsplash.jpg",
+      "overallRating": 5,
+      "imageUrls": [
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/naomi-hebert-MP0bgaS_d1c-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/jason-briscoe-GliaHAJ3_5A-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/steven-ungermann-1AF5hP6F4tI-unsplash.jpg"
+      ],
+      "amenities": [
+        "AC",
+        "TV",
+        "SOFA",
+        "PARKING_SPACE",
+        "FRIDGE",
+        "WIFI",
+        "SECURITY_CAMERA",
+        "FAN",
+        "HEATER",
+        "SHOWER"
+      ],
+      "location": {
+        "street": "Aspen",
+        "state": "Colorado",
+        "country": "United States"
+      },
+      "ratings": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "value": 5,
+        "location": 5,
+        "service": 5
+      },
+      "reviews": [
+        {
+          "reviewerName": "Arvi Bhat",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile.jpeg",
+          "review": "When Tony Stark, an industrialist, is captured, he constructs a high-tech armoured suit to escape. Once he manages to escape, he decides to use his suit to fight against evil forces to save the world.",
+          "createdAt": "2024-01-13T12:10:01.731Z"
+        }
+      ],
+      "host": {
+        "name": "Roy Bentley",
+        "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile.jpeg",
+        "bio": "Bentley Motors Limited is a British designer, manufacturer and marketer of luxury cars and SUVs. Headquartered in Crewe, England, the company was founded by W. O. Bentley in 1919 in Cricklewood, North London, and became widely known for winning the 24 Hours of Le Mans in 1924, 1927, 1928, 1929 and 1930.",
+        "joinedAt": "2019-01-01T17:09:01.731Z",
+        "totalReviews": 1203,
+        "isVerified": true,
+        "isSuperHost": true
+      },
+      "pricePerNightInCents": 800000,
+      "cleaningPricePerNightInCents": 3000,
+      "servicePricePerNightInCents": 5000,
+      "maxGuests": 6,
+      "numberOfBedrooms": 4,
+      "numberOfBeds": 4,
+      "numberOfBathroom": 4
+    },
+    {
+      "id": 10,
+      "title": "Bohemian & Spacious / Private Pool and Garden",
+      "about": "Enjoy a quiet getaway in this charming cottage renovated, designed, and owned by Chip and Joanna Gaines. Originally the carriage house for Hillcrest Estate, this home includes one bedroom, one bath, an office nook and a private back patio. This makes it the perfect getaway for a party of two, or if you’re stopping through town and need a restful place to retreat.",
+      "spaceDescription": "An open living, dining, and kitchen area provide ample room in this cozy cottage. French double doors lead you out to the back patio to enjoy your own private outdoor space. A dedicated, covered parking spot for your use. The parking lot is shared with Hillcrest Estate guests.",
+      "thumbnailUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/lotus-design-n-print-KiUg-4xmTwo-unsplash.jpg",
+      "overallRating": 5,
+      "imageUrls": [
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/lotus-design-n-print-8qNuR1lIv_k-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/lotus-design-n-print-I_QC1JICzA0-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/lotus-design-n-print-KiUg-4xmTwo-unsplash.jpg"
+      ],
+      "amenities": [
+        "AC",
+        "TV",
+        "SOFA",
+        "PARKING_SPACE",
+        "FRIDGE",
+        "WIFI",
+        "SECURITY_CAMERA",
+        "FAN",
+        "HEATER",
+        "SHOWER"
+      ],
+      "location": {
+        "street": "Aspen",
+        "state": "Colorado",
+        "country": "United States"
+      },
+      "ratings": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "value": 5,
+        "location": 5,
+        "service": 5
+      },
+      "reviews": [
+        {
+          "reviewerName": "Omur",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-2.jpeg",
+          "review": "When Tony Stark, an industrialist, is captured, he constructs a high-tech armoured suit to escape. Once he manages to escape, he decides to use his suit to fight against evil forces to save the world.",
+          "createdAt": "2024-01-13T12:10:01.731Z"
+        }
+      ],
+      "host": {
+        "name": "Ozgunulu",
+        "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-4.jpeg",
+        "bio": "Bentley Motors Limited is a British designer, manufacturer and marketer of luxury cars and SUVs. Headquartered in Crewe, England, the company was founded by W. O. Bentley in 1919 in Cricklewood, North London, and became widely known for winning the 24 Hours of Le Mans in 1924, 1927, 1928, 1929 and 1930.",
+        "joinedAt": "2019-01-01T17:09:01.731Z",
+        "totalReviews": 1203,
+        "isVerified": true,
+        "isSuperHost": true
+      },
+      "pricePerNightInCents": 800000,
+      "cleaningPricePerNightInCents": 3000,
+      "servicePricePerNightInCents": 5000,
+      "maxGuests": 6,
+      "numberOfBedrooms": 4,
+      "numberOfBeds": 4,
+      "numberOfBathroom": 4
+    },
+    {
+      "id": 11,
+      "title": "Magnolia's Hillcrest Cottage",
+      "about": "Enjoy a quiet getaway in this charming cottage renovated, designed, and owned by Chip and Joanna Gaines. Originally the carriage house for Hillcrest Estate, this home includes one bedroom, one bath, an office nook and a private back patio. This makes it the perfect getaway for a party of two, or if you’re stopping through town and need a restful place to retreat.",
+      "spaceDescription": "An open living, dining, and kitchen area provide ample room in this cozy cottage. French double doors lead you out to the back patio to enjoy your own private outdoor space. A dedicated, covered parking spot for your use. The parking lot is shared with Hillcrest Estate guests.",
+      "thumbnailUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/spacejoy-XM-miHibz64-unsplash.jpg",
+      "overallRating": 5,
+      "imageUrls": [
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/lotus-design-n-print-KiUg-4xmTwo-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/naomi-hebert-MP0bgaS_d1c-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/spacejoy-XM-miHibz64-unsplash.jpg",
+        "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/steven-ungermann-1AF5hP6F4tI-unsplash.jpg"
+      ],
+      "amenities": [
+        "AC",
+        "TV",
+        "SOFA",
+        "PARKING_SPACE",
+        "FRIDGE",
+        "WIFI",
+        "SECURITY_CAMERA",
+        "FAN",
+        "HEATER",
+        "SHOWER"
+      ],
+      "location": {
+        "street": "Aspen",
+        "state": "Colorado",
+        "country": "United States"
+      },
+      "ratings": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "value": 5,
+        "location": 5,
+        "service": 5
+      },
+      "reviews": [
+        {
+          "reviewerName": "Santhosh",
+          "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile-2.jpeg",
+          "review": "When Tony Stark, an industrialist, is captured, he constructs a high-tech armoured suit to escape. Once he manages to escape, he decides to use his suit to fight against evil forces to save the world.",
+          "createdAt": "2024-01-13T12:10:01.731Z"
+        }
+      ],
+      "host": {
+        "name": "Benes",
+        "profileUrl": "https://fmr-frontend-test.s3.ap-south-1.amazonaws.com/profile.jpeg",
+        "bio": "Bentley Motors Limited is a British designer, manufacturer and marketer of luxury cars and SUVs. Headquartered in Crewe, England, the company was founded by W. O. Bentley in 1919 in Cricklewood, North London, and became widely known for winning the 24 Hours of Le Mans in 1924, 1927, 1928, 1929 and 1930.",
+        "joinedAt": "2019-01-01T17:09:01.731Z",
+        "totalReviews": 1203,
+        "isVerified": true,
+        "isSuperHost": true
+      },
+      "pricePerNightInCents": 800000,
+      "cleaningPricePerNightInCents": 3000,
+      "servicePricePerNightInCents": 5000,
+      "maxGuests": 6,
+      "numberOfBedrooms": 4,
+      "numberOfBeds": 4,
+      "numberOfBathroom": 4
+    }
+  ]
+}
