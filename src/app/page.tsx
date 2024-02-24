@@ -3,9 +3,7 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 import { PropertyCard } from "../components";
 
-type Props = {};
-
-const page = (props: Props) => {
+const page = () => {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(false);
 

@@ -1,9 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-type Props = {};
-
-const MainHeader = (props: Props) => {
+const MainHeader = () => {
   return (
     <header className="flex justify-between w-full h-[80px] paddingX drop-shadow border-b bg-white ">
       {/* col-1 logo */}

@@ -1,4 +1,3 @@
-import SidebarContextProvider from "@/contexts/sidebar-context";
 import ThemeContextProvider from "@/contexts/theme-context";
 import "@/styles/styles.scss";
 import "@/styles/tailwind.css";
@@ -25,11 +24,8 @@ export default function RootLayout({
       </head>
       <body suppressHydrationWarning={true} className="bg-white text-zinc-900">
         <ThemeContextProvider>
-          <SidebarContextProvider>
-            <MainHeader />
-
-            <CustomProvider>{children}</CustomProvider>
-          </SidebarContextProvider>
+          <MainHeader />
+          <CustomProvider>{children}</CustomProvider>
         </ThemeContextProvider>
       </body>
     </html>
